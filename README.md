@@ -19,7 +19,7 @@ GeoNode template project. Generates a django project with GeoNode support.
 Available at
 
   ```bash
-    http://geonode.org/dev-workshop
+    https://stg.geonode.perhutani.id
   ```
 
 ## Create a custom project
