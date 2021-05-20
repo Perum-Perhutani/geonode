@@ -87,7 +87,7 @@ You need Docker 1.12 or higher, get the latest stable official release for your 
 1. Prepare the Environment
 
     ```bash
-    git clone https://github.com/GeoNode/geonode-project.git -b <your_branch>
+    git clone https://github.com/Perum-Perhutani/geonode.git -b 3.2.x
     source /usr/share/virtualenvwrapper/virtualenvwrapper.sh
     mkvirtualenv --python=/usr/bin/python3 stg_geonode
     pip install Django==2.2.15
